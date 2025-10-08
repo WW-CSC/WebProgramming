@@ -1,0 +1,37 @@
+/*
+Wyatt Walsh 
+CSC-390 Project 3
+November 14
+css styling for Project 3
+*/
+.pageChanges , #rpsbuttons, #enterOrReset{
+    display: flex;
+    justify-content: space-evenly;
+}
+#boxes{
+    height: 50px;
+    width: 150px;
+    border: 3px solid red;
+    color: black;
+    background-color: chartreuse;
+    border-radius: 25px;
+    text-align: center;
+    vertical-align: middle;
+    font-weight: normal;
+}
+p{
+    color: black;
+    font-weight: bold;
+}
+img{
+    height: 300px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.rps{
+    height: 150px;
+    width: 200px;
+}
+

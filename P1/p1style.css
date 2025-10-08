@@ -1,0 +1,45 @@
+/*
+Wyatt Walsh 
+CSC-390 Project 1
+September 22
+css styling for project
+*/
+
+.pageChanges{
+    display: flex;
+    justify-content: space-evenly;
+}
+#wikilink{
+    color: green;
+    font-style: italic;
+    font-size: large;
+}
+#boxes{
+    height: 50px;
+    width: 150px;
+    border: 3px solid red;
+    color: black;
+    background-color: chartreuse;
+    border-radius: 25px;
+    text-align: center;
+    vertical-align: middle;
+}
+#subHeads{
+    color: brown;
+}
+#Oldworld{
+    color: gray;
+}
+#images{
+    height: 200px;
+    width: 250px;
+}
+#Newworld{
+    color: darkblue;
+}
+#Lesser{
+    color: darkgray;
+}
+#Great{
+    color: darkslategrey;
+}
